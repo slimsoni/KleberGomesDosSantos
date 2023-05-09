@@ -59,13 +59,7 @@
     <a href="https://www.instagram.com/instasoni_/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/instasoni_/">
     </a>
-    &nbsp;
-    <a href="https://discord.com/channels/Sonih#0790">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=mailto:https://discord.com/channels/Sonih#0790">
-    </a>
-  
-  
-  
+      
 </p>
 
 ![Snake animation](https://github.com/KleberGomesDosSantos/KleberGomesDosSantos/blob/output/github-contribution-grid-snake.svg)
