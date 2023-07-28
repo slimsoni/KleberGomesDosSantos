@@ -1,10 +1,7 @@
 ## Oi. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Sobre mim
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Analista de suporte na GoldengateBR. </p>
-<p> - 🎯 Interesse: Shell Script, SQL, Oracle Goldengate 🌉, AWS, Docker e Python. </p>
-<p> - 🎮 Gamer quando sobra tempo. </p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
