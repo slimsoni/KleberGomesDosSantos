@@ -19,6 +19,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebergomesdossantos&layout=compact&langs_count=7&theme=dark"
     />
   </a>
+  https://roadmap.sh/card/wide/65e72ff3d064ed508579f875?variant=dark&roadmaps=android
 </p>
 <!--
 ## Skills 🥷
