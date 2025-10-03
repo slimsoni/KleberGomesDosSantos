@@ -3,7 +3,8 @@
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-</div>
+
+https://roadmap.sh/card/wide/65e72ff3d064ed508579f875?variant=dark&roadmaps=android
 
 <p>
    <a href="mailto:kleberdmx@gmail.com">
