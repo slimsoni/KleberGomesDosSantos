@@ -6,25 +6,6 @@
 </div>
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=klebergomesdossantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebergomesdossantos&layout=compact&langs_count=7&theme=dark"
-    />
-  </a>
-  https://roadmap.sh/card/wide/65e72ff3d064ed508579f875?variant=dark&roadmaps=android
-</p>
-
-## Contatos 📲
-
-<p>
    <a href="mailto:kleberdmx@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kleberdmx@gmail.com">
     </a>
