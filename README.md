@@ -6,12 +6,7 @@
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/klebergs/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/klebergs/">
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/instasoni_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mailto:https://www.instagram.com/instasoni_/">
-    </a>      
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/klebergs/">    
 </p>
 
-![Snake animation](https://github.com/KleberGomesDosSantos/KleberGomesDosSantos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/slimsoni/KleberGomesDosSantos/blob/output/github-contribution-grid-snake.svg)
